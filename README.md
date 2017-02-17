@@ -5,7 +5,7 @@ Vagrant Setup
 
 Ubuntu Server 12.04 64 Bits
 
-Amibente de Desenvolvimento PHP 5.3.10 
+Ambiente de Desenvolvimento PHP 5.3.10 
 
 ###Pacotes Inclusos:
 
