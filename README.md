@@ -54,10 +54,10 @@ Para religar novamente utilize: `vagrant up`
 Caso queira destruir a máquina virtual (o conteúdo do www não será excluido): `vagrant destroy`
 
 - Para import do banco de dados via command line no ssh do vagrant fazer:
--- > `vagrant ssh`
--- > Coloque o banco de dados na pasta `www`
--- > Vá até a pasta: `/var/www`
--- > execute: `mysql -u root -p nome_do_banco < arquivo_do_banco.sql`
+- > `vagrant ssh`
+- > Coloque o banco de dados na pasta `www`
+- > Vá até a pasta: `/var/www`
+- > execute: `mysql -u root -p nome_do_banco < arquivo_do_banco.sql`
 
 
 ![logo_top_ideias logo](logo_top_ideias.png)
