@@ -33,6 +33,8 @@ Instalação
 
 * Clone esse repositório para sua máquina no terminal: `git clone https://github.com/soterojunior/topideias_vagrant_php5.3.10`
 
+* Crie a pasta `www` dentro do projeto clonado (Caso já tenha, não é necessário).
+
 * Acesse o repositório e inicie a máquina virtual com o comando: `vagrant up`
 
 O Vagrant irá baixar o sistema operacional ( isso pode demora um pouco ), irá configurar a máquina virtual no VirtualBox e posteriormente baixar, instalar e configurar todos os pacotes do script `setup.sh`.
